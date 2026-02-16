@@ -7,6 +7,7 @@ This repository demonstrates my problem‑solving skills, algorithmic thinking, 
 ---
 
 **Primary Language:** Python
+
 **Focus:** Algorithms • Clean Code • Problem Solving
 
 I actively solve coding challenges to strengthen:
