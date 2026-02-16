@@ -4,6 +4,7 @@
 Welcome to my Codewars Solutions Repository.
 
 This repository demonstrates my problem‑solving skills, algorithmic thinking, and code quality through completed programming challenges (kata). It is part of my developer portfolio and continuous learning journey.
+
 ---
 
 **Primary Language:** Python
