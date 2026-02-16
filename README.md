@@ -27,6 +27,6 @@ I actively solve coding challenges to strengthen:
 
 **Current Rank:** 8 kyu (actively progressing)
 
-**Profile:** https://www.codewars.com/users/Ibrahimzada%20Farid
+**Profile:** [https://www.codewars.com/users/Ibrahimzada%20Farid](https://www.codewars.com/users/Aveira%20Serpent)
 
 **Completed Kata:** 
