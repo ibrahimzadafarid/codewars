@@ -29,4 +29,4 @@ I actively solve coding challenges to strengthen:
 
 **Profile:** [https://www.codewars.com/users/Ibrahimzada%20Farid](https://www.codewars.com/users/Aveira%20Serpent)
 
-**Completed Kata:** 10
+**Completed Kata:** 5
