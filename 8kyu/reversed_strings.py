@@ -2,11 +2,12 @@
 Language: Python
 Kata: Reversed Strings
 Kyu: 8
-Description: Complete the solution so that it reverses the string passed into it. 
+Description: Complete the solution so that it reverses the string passed into it.
 URL: https://www.codewars.com/kata/5168bb5dfe9a00b126000018
 """
 
 # Solution
+
 
 def solution(string):
     return string[::-1]
