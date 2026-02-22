@@ -1,0 +1,14 @@
+"""
+Language: Python
+Kata: Function 1 - hello world
+Kyu: 8
+Description: Make a simple function called greet that returns the most-famous "hello world!".
+URL: https://www.codewars.com/kata/523b4ff7adca849afe000035
+
+"""
+
+# Solution
+
+
+def greet():
+    return "hello world!"
